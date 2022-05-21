@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.03c395fb.css",
-    "main.js": "/static/js/main.6add4139.js",
-    "index.html": "/index.html",
-    "main.03c395fb.css.map": "/static/css/main.03c395fb.css.map",
-    "main.6add4139.js.map": "/static/js/main.6add4139.js.map"
+    "main.css": "/consulta-cedula.github.io/static/css/main.03c395fb.css",
+    "main.js": "/consulta-cedula.github.io/static/js/main.0c66fb9b.js",
+    "index.html": "/consulta-cedula.github.io/index.html",
+    "main.03c395fb.css.map": "/consulta-cedula.github.io/static/css/main.03c395fb.css.map",
+    "main.0c66fb9b.js.map": "/consulta-cedula.github.io/static/js/main.0c66fb9b.js.map"
   },
   "entrypoints": [
     "static/css/main.03c395fb.css",
-    "static/js/main.6add4139.js"
+    "static/js/main.0c66fb9b.js"
   ]
 }
